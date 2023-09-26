@@ -1,0 +1,181 @@
+body{
+    margin: 30px 30px 30px 30px;
+    background-repeat: no-repeat; 
+    background-size:100% 100%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(231, 231, 245);
+    border: solid 3px black;
+    background-image: url("bgImg.jpg");
+    
+}
+
+#heading{
+    margin-left: 25px;
+    margin-top: 20px;
+    height: 120px;
+    width: 400px;
+    background-color: rgb(231, 231, 245);
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+h5{
+    text-align: left;
+}
+
+#navBar{
+    height: 50px;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+    border: solid 3px black;
+}
+
+li{
+    font-size: 25px;
+    float: left;
+    
+}
+
+li a{
+    display: block;    
+    padding: 9px 9px 9px 9px;
+    text-decoration: none;
+    color: rgb(231, 231, 245);
+    
+}
+
+li a:hover{
+    background-color: rgb(231, 231, 245);
+    color: black;
+    
+}
+
+#li1{
+    float: right;
+}
+
+h2{
+    text-align: center;
+
+}
+
+
+
+#searchBar{
+    overflow: hidden;
+    float: left;
+    margin-left: 430px;
+    margin-right:430px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height:70px;
+    width: 650px;
+    padding: 7px;
+
+}
+
+button i:hover{
+    color: rgb(231, 231, 245) ;
+    background-color: black;
+}
+
+input{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif ;
+    width: 540px;
+    border: 2px solid black;
+    background-color: rgb(231, 231, 245);
+
+}
+
+#main1{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px 40px 40px 40px;
+    height: 450px;
+    
+}
+
+#poster{
+    height: 50px;
+    border-radius: 25px ;
+    margin-left: 50px;
+    margin-right: 30px;
+    float:left;
+}
+
+#song_name{
+    font-size: 20px;
+    float:left;
+    margin-left: 20px;
+    margin-right: 30px;;
+    text-align: left;
+}
+
+#BollywoodTopHits{
+    height: 450px;
+    width: 355px;
+    border: solid 3px black;
+    float: left;
+    padding: 5px;
+    background-color: rgb(231, 231, 245);;
+    
+    
+}
+
+#RomanticHits{
+    height: 450px;
+    width: 355px;
+    border: solid 3px black;
+    margin-left: 105px;
+    float: left;
+    background-color: rgb(231, 231, 245);;
+    
+}
+
+#PunjabiTopHits{
+    height: 450px;
+    width: 355px;
+    border: solid 3px black;
+    float: right;
+    background-color: rgb(231, 231, 245);;
+    
+    
+}
+
+#showmore{
+    height: 70px;
+    width:70px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+
+#aboutUs{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 17px;
+}
+
+#follow{
+    border-radius: 50%;
+    height: 50px;
+    padding: 5px;
+}
+
